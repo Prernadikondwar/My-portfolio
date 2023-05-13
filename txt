@@ -1,0 +1,21 @@
+<div class="portfolio-box">
+            <img src="img/portfolio 2.jpg" height="300" width="500" alt="">
+            <div class="portfolio-layer">
+                <h4>Web Design</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, placeat?</p>
+                <a href="https://prernadikondwar.github.io/calculator/"><i class='bx bx-link-external'></i></a>
+
+                <div class="portfolio-box">
+                    <img src="img/portfolio 3.jpg" height="300" width="500" alt="">
+                    <div class="portfolio-layer">
+                        <h4>Web Design</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, placeat?</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+
+                        <div class="portfolio-box">
+                            <img src="img/portfolio 4.jpg" height="300" width="500" alt="">
+                            <div class="portfolio-layer">
+                                <h4>Web Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, placeat?</p>
+                                <a href="#"><i class='bx bx-link-external'></i></a>
+                            </div>
